@@ -1,2 +1,2 @@
 # MusicPlayer
-https://tytbeo.github.io/player/
+https://gnoucyzza.github.io/master-player/
