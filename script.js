@@ -23,12 +23,18 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [
-     {
-		artist: "Dalab",
-		name: "Từ ngày em đến",
-		url: "Musics/tu-ngay-em-den.mp3",
-		picture: "https://user-images.githubusercontent.com/44826469/76587072-57cd1c80-6515-11ea-96ee-06f1ce0c86e2.jpg"
-	},
+    {
+		artist: "Joe Hisaishi",
+		name: "Merry Go Round",
+		url: "Musics/merry-go-round.mp3",
+		picture: "https://user-images.githubusercontent.com/44826469/76594456-c74e0680-652b-11ea-93a6-2daddb783f44.JPG"
+    },
+    {
+		artist: "Madeleine Peyroux",
+		name: "I'll Look Around",
+		url: "Musics/i'll-look-around.mp3",
+		picture: "https://user-images.githubusercontent.com/44826469/76594149-e13b1980-652a-11ea-8c50-4ad4dfebfb15.JPG"
+    },
     {
 		artist: "Dalab",
 		name: "Một nhà",
@@ -36,10 +42,10 @@ $(function()
 		picture: "https://user-images.githubusercontent.com/44826469/76594149-e13b1980-652a-11ea-8c50-4ad4dfebfb15.JPG"
     },
     {
-		artist: "JUSTATEE x PHƯƠNG LY",
-		name: "Thằng điên",
-		url: "Musics/thang-dien.mp3",
-		picture: "https://user-images.githubusercontent.com/44826469/76594456-c74e0680-652b-11ea-93a6-2daddb783f44.JPG"
+		artist: "Dalab",
+		name: "Từ ngày em đến",
+		url: "Musics/tu-ngay-em-den.mp3",
+		picture: "https://user-images.githubusercontent.com/44826469/76587072-57cd1c80-6515-11ea-96ee-06f1ce0c86e2.jpg"
     },
     {
 		artist: "The Sheep",
